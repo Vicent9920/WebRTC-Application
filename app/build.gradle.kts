@@ -4,15 +4,15 @@ plugins {
 }
 
 android {
-    namespace = "com.vincent.webrtc.application"
+    namespace = "corepoints.com.game.app"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.vincent.webrtc.application"
+        applicationId = "corepoints.com.game.app"
         minSdk = 24
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 11
+        versionName = "1.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -46,7 +46,7 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
-    implementation("org.webrtc:google-webrtc:1.0.32006")
-    implementation("io.socket:socket.io-client:2.0.0")
+//    implementation("org.webrtc:google-webrtc:1.0.32006")
+//    implementation("io.socket:socket.io-client:2.0.0")
 
 }
