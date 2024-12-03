@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "corepoints.com.game.app"
+    namespace = "com.digitalfun.app2"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "corepoints.com.game.app"
+        applicationId = "com.digitalfun.app2"
         minSdk = 24
         targetSdk = 34
         versionCode = 11
