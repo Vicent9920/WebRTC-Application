@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity() {
             isVerticalScrollBarEnabled = false
             setInitialScale(0)
             requestDisallowInterceptTouchEvent(true)
-            loadUrl("https://2fhhg.win/index.html?partner=88880001")
+            loadUrl("file:///android_asset/hot-shoot/index.html")
         }
 
 
