@@ -24,6 +24,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "WebRTC Application"
+rootProject.name = "Mini Game"
 include(":app")
  
