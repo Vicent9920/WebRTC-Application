@@ -1,5 +1,10 @@
 # WebRTC-Application
 WebRTC Android demo
 
-密码：shoot_game
-别名：shoot
+## 签名信息
+```kotlin
+storeFile = file("./app/crossy_road.jks")
+storePassword = "crossy-road-online"
+keyAlias = "crossy-road"
+keyPassword = "crossy-road-online"
+```

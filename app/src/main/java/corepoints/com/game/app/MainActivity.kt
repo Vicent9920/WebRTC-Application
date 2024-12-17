@@ -8,7 +8,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.digitalfun.app2.R
+import com.crossy.road.online.R
 
 
 class MainActivity : AppCompatActivity() {
@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity() {
             isVerticalScrollBarEnabled = false
             setInitialScale(0)
             requestDisallowInterceptTouchEvent(true)
-            loadUrl("file:///android_asset/hot-shoot/index.html")
+            loadUrl("file:///android_asset/Crossy-Road-Online/index.html")
         }
 
 

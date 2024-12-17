@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.digitalfun.app2"
+    namespace = "com.crossy.road.online"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.digitalfun.app2"
+        applicationId = "com.crossy.road.online"
         minSdk = 24
         targetSdk = 34
         versionCode = 11
